@@ -1,0 +1,21 @@
+body{
+  background:url(https://kyrs.org/wp-content/uploads/2016/04/Purple-Bricks.jpg);
+  background-repeat: repeat;
+  color: #FFFCF9;
+  font-family: 'ManicMondayRegular';
+    font-size: 30px;
+}
+
+a{color: #FFFCF9;
+font-weight: bold;
+}
+
+#one{
+  text-align: center;
+}
+#two{
+  text-align: center;
+}
+#three{
+  width: 100px
+}
